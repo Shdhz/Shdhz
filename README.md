@@ -1,7 +1,7 @@
 ## Hi there, I'm Muhammad Dhafa Alfareza 👋
 <br>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6" alt="image" width = "100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6" alt="image" width = "60%" />
 </a>
 <hr>
 🔭 I’m currently working on Website Developer in <b>Kaifacraft</b> <br>
