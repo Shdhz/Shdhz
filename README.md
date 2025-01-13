@@ -1,7 +1,7 @@
 ## Hi there, I'm Muhammad Dhafa Alfareza 👋
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shdhz&layout=compact&langs_count=8&card_width=1000" />
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6" alt="image" width = "100%" />
 </a>
 <hr>
 🔭 I’m currently working on Website Developer in <b>Kaifacraft</b> <br>
