@@ -1,9 +1,12 @@
 ## Hi there, I'm Muhammad Dhafa Alfareza 👋
 <br>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6" alt="image" width = "50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shdhz&" alt="image" width = "50%" />
-</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6" 
+    alt="Top Languages" width="32.4%" 
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reezecodee&" alt="image" width="45%" />
+</div>
 <hr>
 🔭 I’m currently working on Website Developer in <b>Kaifacraft</b> <br>
 🌱 I’m currently learning Javascript
