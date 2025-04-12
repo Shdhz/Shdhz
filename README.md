@@ -13,7 +13,7 @@
 
 <div align="start">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=html,css,jupyter%20Notebook&langs_count=6&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shdhz&layout=compact&hide=blade,html,css,jupyter%20Notebook&langs_count=6&theme=tokyonight" 
     alt="Top Languages" width="34%" 
   />
   <img 
