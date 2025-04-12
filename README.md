@@ -6,7 +6,6 @@
 ---
 
 ## 🔥 About Me  
-- 🌐 **Currently Working as:** Website Developer at **KaifaCraft**  
 - 📚 **Currently Learning:** **JavaScript**  
 - 🎯 **Goal:** Building dynamic and innovative web experiences!  
 
