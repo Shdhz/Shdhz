@@ -6,7 +6,7 @@
 ---
 
 ## 🔥 About Me  
-- 📚 **Currently Learning:** **JavaScript**  
+- 📚 **Currently Learning:** **flutter**  
 - 🎯 **Goal:** Building dynamic and innovative web experiences!  
 
 ---
