@@ -6,8 +6,8 @@
 ---
 
 ## 🔥 About Me  
-- 📚 **Currently Learning:** **flutter**  
-- 🎯 **Goal:** Building dynamic and innovative web experiences!  
+A skilled and motivated Web Developer with a strong foundation in PHP, Laravel, and JavaScript, complemented by hands
+on experience in digital marketing and UI/UX design.
 
 ---
 
