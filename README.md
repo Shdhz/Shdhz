@@ -1,8 +1,4 @@
 # Hi there, I'm Muhammad Dhafa Alfareza! 👋  
-<div align="start">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&width=435&lines=Full-Stack+Developer;Passionate+Learner;Crafting+Elegant+Web+Solutions" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🔥 About Me  
